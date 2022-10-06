@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Update Form</title>
+  <link rel="stylesheet" href="./update.css">
+
+</head>
+
+<body onload="AddData()">
+<div class="container">
+  <form id="myForm">
+    <!-- <label for="task" id="taskName">Task status</label> -->
+    <div id="divTasks" class="divTasks">
+    </div>
+    <!-- <select class="dropdown" id="taskStatus">
+      <option value="Todo">Todo</option>
+      <option value="Completed">Completed</option>
+    </select> -->
+    <br>
+  <label for="Ahead" id="ahead">Ahead/Behind</label>
+  <div class="slider">
+        <input id='daysinput' type="range" min="-4" max="4" value="0" class="slider--style" oninput="updateAhead()" onchange="updateAheadOnchange(this.value)">
+        <span id="daysvalue"></span>
+  </div> 
+  <label for="Morale">Morale</label>
+  <input type="range" min="0" max="2" value="1" class="slider--style" id="range" oninput="updateMorale()" onchange="updateMoraleOnchange(this.value)">
+  <span class="emoji" id="emoji">&#128543</span>
+  <br><br>
+  <input type="button" value="Update" onclick="UpdateTask()">
+</form>
+</div>
+<script type="text/javascript" src="./updateForm.js"></script>
+</body>
+</html>

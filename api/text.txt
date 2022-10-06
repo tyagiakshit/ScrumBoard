@@ -1,0 +1,16 @@
+[0,1,2,3,4]=[mon,tue,wed,thu,fri];
+
+calculateDay(date)=>return day(mon,tue,we,thu,fri)
+monday=document.createElement("div")
+data.allocation.forEach((item)=>{
+    if(calculateDay(item.date)=="mon"){
+        let task=document.createElement('span')
+        task.innerHtml=item.taskName;
+    }
+[[tassk1,task2],[task1,task2]]
+    result += `<tr>
+  //   <td>${data.name}</td>
+  //   <td>${c.lastName}</td>
+  //   <td>${c.drinkChoice}</td>
+  //   <td>${c.food
+})

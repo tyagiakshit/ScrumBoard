@@ -1,0 +1,159 @@
+{
+    "projectPlan" : [
+  {
+    "employee": "Gaurav",
+    "allocations": [
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-04",
+        "effort": 0.5
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-04",
+        "effort": 0.5
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-05",
+        "effort": 0.5
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-05",
+        "effort": 0.5
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-06",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-06",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-07",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-07",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-08",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-08",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-09",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-09",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-10",
+        "effort": 1
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-10",
+        "effort": 1
+      }
+  
+    ]
+  },
+  {
+    "employee": "Anurag",
+    "allocations": [
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-04",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-04",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-05",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-05",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-06",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-06",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-07",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-07",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-08",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-08",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-09",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-09",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 1",
+        "date": "2022-10-10",
+        "effort": 0.3
+      },
+      {
+        "taskName": "Task Name 2",
+        "date": "2022-10-10",
+        "effort": 0.3
+      }
+      
+      
+      
+      
+    ]
+  }
+  ]
+  }

@@ -1,0 +1,33 @@
+body{
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        } 
+        .container{
+            width: 100%;
+            max-width: 250px;
+            background-color: #fff;
+            border-radius: 10px;
+            border: 2px solid #b6c8d4;
+
+        }
+      .emoji{
+            font-size: 35px;
+            margin: 0px;
+        }
+        .slider--style{
+            -webkit-appearance: none;
+            appearance: none;
+            width: 85%;
+            height: 5px;
+            max-width: 250px;
+            background-color: #ccc;
+            margin: 0;
+            padding: 0;
+            outline: none;
+            cursor: pointer;
+        }
+        .dropdown{
+            width: max-content;
+            border-radius: 5px;
+        }
